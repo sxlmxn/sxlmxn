@@ -1,213 +1,244 @@
-# 👋 Hey, I'm Salman
+# ⚡ ZALMII.DEV
 
-### `Data Analyst` × `Data Engineer` × `Full-Stack Developer`
+<div align="center">
 
-> Turning **raw data → meaningful insights → real-world solutions.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYED%20SALMAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast;Aspiring+Data+Engineer;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI;Building+Things+That+Matter+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7F5CFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Python+%7C+SQL+%7C+JavaScript+%7C+React;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%A7%A0" />
+
+<br/>
+
+<a href="https://github.com/sxlmxn">
+<img src="https://img.shields.io/github/followers/sxlmxn?label=Followers&style=for-the-badge&logo=github&color=7F5CFF"/>
+</a>
+<a href="https://github.com/sxlmxn">
+<img src="https://img.shields.io/github/stars/sxlmxn?label=Stars&style=for-the-badge&logo=github&color=FFD700"/>
+</a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧬 WHO AM I?
 
-```python
-class Salman:
-
-    role = "IT Graduate & Developer"
-
-    interests = [
-        "Data Analytics",
-        "Data Engineering",
-        "Full Stack Development",
-        "Automation"
-    ]
-
-    currently_learning = [
-        "Advanced SQL",
-        "Data Engineering",
-        "Cloud Technologies",
-        "System Design"
-    ]
-
-    mindset = "Learn → Build → Break → Fix → Repeat 🚀"
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   👋 Hey! I'm Syed Salman                               │
+│                                                    │
+│   🎓 B.Tech Information Technology                 │
+│   📊 Data Analytics Enthusiast                          │
+│   💻 Full Stack Developer                     │
+│   🐍 Python Developer                              │
+│   🗄️ SQL & Database Explorer                       │
+│   🚀 Building useful things with code              │
+│                                                    │
+│   "Code is not just written.                       │
+│    It is designed, tested and experienced."        │
+│                                                    │
+╰────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ TECH UNIVERSE
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
-### 📊 Data & Analytics
+### ⚙️ Frameworks & Backend
 
-<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+
+### 🗄️ Database & Data
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-`Pandas` · `NumPy` · `Matplotlib` · `Power BI` · `Excel` · `SQL`
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
 
 ### 🛠️ Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+
+### 📊 Data Science
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+**Pandas • NumPy • Matplotlib • Scikit-Learn • Power BI • Excel**
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 WHAT I'M BUILDING
 
-### 📊 Smart Expense Analytics & Management System
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
++   CURRENT MISSION
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> A full-stack expense management platform designed to track, analyze and visualize personal spending.
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `JavaScript`
-
-**Highlights**
-
-* 💰 Expense tracking
-* 📈 Analytics dashboard
-* 📊 Spending insights
-* 🔐 User management
-* 📱 Responsive interface
-
----
-
-### 📈 Sales Analytics Dashboard
-
-> End-to-end sales analysis project transforming raw sales data into actionable business insights.
-
-**Stack:** `SQL` `Excel` `Power BI` `Python`
-
-**Analytics**
-
-* 💵 Revenue
-* 📦 Orders
-* 📈 Profit
-* 🎯 Profit Margin
-* 🌍 Regional Performance
-* 🛍️ Category Analysis
++ 📊 Data Analytics Projects
++ 🌐 Full Stack Web Applications
++ 🤖 Automation & AI Experiments
++ 📈 Business Intelligence Dashboards
++ 🧠 Data Engineering Concepts
++ 🎨 Creative Developer Interfaces
+```
 
 ---
+
+## 🧪 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 Smart Expense Analytics
+
+A modern expense management and analytics system.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+`Node.js` `Express` `MongoDB`
+
+</td>
+
+<td width="50%">
+
+### 📊 Sales Analytics
+
+Interactive analytics project focused on extracting business insights from sales data.
+
+**Stack**
+
+`Python` `SQL` `MySQL`
+`Power BI` `Excel`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📄 SS PDF Converter
 
-> A desktop PDF utility built with Python featuring multiple document conversion workflows.
+A clean desktop application for converting and managing PDF files.
 
-**Stack:** `Python` `CustomTkinter`
+**Stack**
 
-**Features**
+`Python` `CustomTkinter`
+`PDF Processing`
 
-* PDF → Word
-* PDF → Images
-* Images → PDF
-* Word → PDF
-* Merge PDFs
-* Split PDF pages
-* Multiple-file processing
+</td>
 
----
+<td width="50%">
 
-## 📊 GitHub Analytics
+### 🌐 Developer Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxlmxn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+Personal portfolio showcasing projects, skills and development journey.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sxlmxn&theme=tokyonight&hide_border=true" />
-</p>
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 My Developer Journey
+## 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sxlmxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5CFF&icon_color=7F5CFF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sxlmxn&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5CFF&fire=FF6B6B&currStreakLabel=7F5CFF" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxlmxn/sxlmxn/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📈 MY DEVELOPER MINDSET
 
 ```text
-JavaScript ────────┐
-Python ────────────┤
-SQL ───────────────┤
-                   ├──→ Data + Software
-Power BI ──────────┤
-React ─────────────┤
-Node.js ───────────┤
-MongoDB ───────────┘
+        ┌─────────────────────────────┐
+        │                             │
+        │       IDEA 💡               │
+        │         ↓                   │
+        │       DESIGN 🎨             │
+        │         ↓                   │
+        │       CODE 💻               │
+        │         ↓                   │
+        │       TEST 🧪               │
+        │         ↓                   │
+        │       DEPLOY 🚀             │
+        │         ↓                   │
+        │       IMPROVE 🔥            │
+        │                             │
+        └─────────────────────────────┘
 ```
 
-### 🎯 Current Focus
+---
 
-`Data Engineering` · `Advanced SQL` · `Power BI` · `Cloud` · `Backend Development`
+## 🎯 2026 ROADMAP
+
+* [x] Learn Python
+* [x] Learn SQL & MySQL
+* [x] Build Full Stack Projects
+* [x] Explore Data Analytics
+* [x] Build Power BI Dashboards
+* [ ] Master Data Engineering
+* [ ] Build AI-powered applications
+* [ ] Contribute to Open Source
+* [ ] Build something people actually use 🚀
 
 ---
 
-## 🏆 Certifications & Learning
+## 🌐 CONNECT WITH ME
 
-* 🐍 Python 3 — IIT Bombay Spoken Tutorial
-* ⚡ JavaScript — IIT Bombay Spoken Tutorial
-* 📊 Data Science & Analytics — HP LIFE
-* 🤖 RPA Foundation — Naan Mudhalvan
-* 🧩 UiPath / RPA Learning
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/sxlmxn">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/syed-salman-933ab8269
-
-/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💭 Developer Philosophy
+<div align="center">
 
-> **"Don't just learn technology. Build something with it."**
+### 💭 RANDOM DEVELOPER THOUGHT
 
-```text
-             ┌───────────────┐
-             │     IDEA      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    BUILD      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    DEBUG      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    DEPLOY     │
-             └───────┬───────┘
-                     ↓
-             🚀 LEVEL UP 🚀
-```
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
----
+<br/><br/>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-### ⭐ If you find something useful here, consider giving it a star!
+### `⚡ BUILD • BREAK • LEARN • REPEAT ⚡`
 
-**Thanks for visiting my profile! 🚀**
+**Thanks for visiting my corner of GitHub.**
 
-</p>
+⭐ If you like my work, consider giving a star!
+
+</div>
